@@ -1,0 +1,1 @@
+console.log('"Thanks For Governor Kamran Tessori"');
